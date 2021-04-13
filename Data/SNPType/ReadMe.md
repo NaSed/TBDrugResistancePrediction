@@ -1,0 +1,1 @@
+SNP type data
