@@ -1,2 +1,0 @@
-This small package helps to find mutation types, translate gene sequences, etc.
-It can be used as 'import DNA_Manipulation.utils as DM' and then its functions called as 'DM.translate_TB_Gene(...)'.
